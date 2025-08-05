@@ -1,4 +1,4 @@
-# こんにちは！👋 山田太郎です
+# こんにちは！👋 山田タロウです
 
 ## 🌱 現在学習中
 - Python
@@ -10,4 +10,6 @@
 - Email: example@email.com
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itoksk-sanyo&show_icons=true)
+
+![](https://raw.githubusercontent.com/itoksk-sanyo/itoksk-sanyo/output/github-contribution-grid-snake.svg)
