@@ -8,7 +8,3 @@
 ## 📫 連絡先
 - Twitter: [@example](https://twitter.com/example)
 - Email: example@email.com
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itoksk-sanyo&show_icons=true)
-
